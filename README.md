@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**droguelios/droguelios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola 👋 soy Alejandro, tengo 21 años y actualmente estoy aprendiendo Python.
+También sé usar HTML y CSS, y mi objetivo es convertirme en desarrollador full stack.
+Me gusta aprender de forma práctica, crear proyectos pequeños y mejorar cada día un poco más
 
-Here are some ideas to get you started:
+🚀 Tecnologías que estoy aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python
+
+🌐 HTML
+
+🎨 CSS
+
+🎯 Objetivos
+
+Seguir mejorando en programación backend con Python
+
+Aprender JavaScript y bases de datos
+
+Construir mi primer proyecto full stack
+
+📫 Contáctame
+
+Si quieres conectar o darme consejos sobre programación:
+droguelios@gmail.com
