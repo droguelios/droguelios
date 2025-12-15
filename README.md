@@ -24,3 +24,5 @@ Construir mi primer proyecto full stack
 
 Si quieres conectar o darme consejos sobre programación:
 droguelios@gmail.com
+
+![d2d150f41a9e0c477aec7d49d90a6f5b](https://github.com/user-attachments/assets/9290aede-a8e0-43c7-9201-2296001933d8)
