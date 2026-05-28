@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Full Stack Developer | Medellin,AN
+### Java Backend Developer | Medellin,ANT
 
 Java Backend Developer | Spring Boot Specialist
 
