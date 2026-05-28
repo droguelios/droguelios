@@ -24,9 +24,9 @@ Continuously learning and implementing advanced solutions, from real-time system
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Droguelios&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=droguelios&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Droguelios&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=droguelios&layout=compact&theme=tokyonight)
 
 </div>
 
