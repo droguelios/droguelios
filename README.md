@@ -55,6 +55,16 @@ Continuously learning and implementing advanced solutions, from real-time system
 
 ---
 
+### Now Playing on Spotify
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31sz3sj6mymypphrqf3adstgkugrm">
+    <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?background_color=060c13&text_color=fff&icon_color=1db954&wave_color=1db954" alt="Spotify Now Playing" width="350px">
+  </a>
+</div>
+
+---
+
 ### Behind the Code
 
 <table border="0" width="100%">
