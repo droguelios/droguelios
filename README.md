@@ -55,7 +55,7 @@ Continuously learning and implementing advanced solutions, from real-time system
 
 ---
 
-### 🎮 Detrás del Código
+###  Detrás del Código
 
 <table border="0" width="100%">
   <tr>
@@ -64,9 +64,9 @@ Continuously learning and implementing advanced solutions, from real-time system
       <br />
       <p><b>Top Desafíos Ganados:</b></p>
       <ul>
-        <li>⚔️ Sekiro: Shadows Die Twice</li>
-        <li>🛡️ Bloodborne & Souls Saga</li>
-        <li>🔥 Acción & Estrategia en tiempo real</li>
+        <li> Sekiro: Shadows Die Twice</li>
+        <li> Bloodborne & Souls Saga</li>
+        <li> Devil may cry</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
