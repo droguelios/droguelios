@@ -58,8 +58,8 @@ Continuously learning and implementing advanced solutions, from real-time system
 ### Now Playing on Spotify
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31sz3sj6mymypphrqf3adstgkugrm">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31sz3sj6mymypphrqf3adstgkugrm&cover_image=true&theme=tokyonight&bar_color=1db954&bar_color_cover=false" alt="Spotify Now Playing" width="450px">
+  <a href="https://open.spotify.com/user/31sz3sj6mymypphrqf3adstgkugrm" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" width="200px">
   </a>
 </div>
 
