@@ -2,11 +2,9 @@
 
 <div align="center">
 
-### Java Backend Developer | Medellin,ANT
+### Java Backend Developer | Medellín, ANT
 
-Java Backend Developer | Spring Boot Specialist
-
-Passioned backend engineer dedicated to building scalable, efficient, and clean server-side applications. Experienced in developing robust architectures using Java and Spring Boot, integrating both relational (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, and implementing secure API communication.
+Passionate backend engineer dedicated to building scalable, efficient, and clean server-side applications. Experienced in developing robust architectures using Java and Spring Boot, integrating both relational (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, and implementing secure API communication.
 
 Continuously learning and implementing advanced solutions, from real-time systems with WebSockets to AI integration. Focused on clean code, software design patterns, and agile methodologies.
 
@@ -16,7 +14,14 @@ Continuously learning and implementing advanced solutions, from real-time system
 
 ### 💻 Tech Stack
 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SPRINGBOOT](https://img.shields.io/badge/SPRINGBOOT-333?style=for-the-badge&logo=springboot&logoColor=white) ![html5](https://img.shields.io/badge/html5-333?style=for-the-badge&logo=html5&logoColor=white) ![Mongodb](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![postgresql](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+#### **Backend & Core**
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SPRINGBOOT](https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### **Databases**
+![postgresql](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Mongodb](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### **Frontend & Tools**
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ---
 
@@ -34,9 +39,9 @@ Continuously learning and implementing advanced solutions, from real-time system
 
 ### 🌱 Currently
 
-- 📚 Learning: **Java 21, Spring Boot 3, JPA / Hibernate, Microservices**
-- 🤝 Open to collaborate on: **Backend Development, Spring Boot APIs, Open Source Projects**
-- 💬 Ask me about: **Java, Spring Boot, SQL Databases, REST APIs, JavaScript**
+- 📚 **Learning:** Java 21, Spring Boot 3, JPA / Hibernate, Microservices
+- 🤝 **Open to collaborate on:** Backend Development, Spring Boot APIs, Open Source Projects
+- 💬 **Ask me about:** Java, Spring Boot, SQL/NoSQL Databases, REST APIs
 
 ---
 
@@ -44,19 +49,15 @@ Continuously learning and implementing advanced solutions, from real-time system
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](portfolio-five-phi-53.vercel.app) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:droguelios@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/manuel-alejandro-rodriguez-guerrero-31224b314) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Droguelios)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-five-phi-53.vercel.app) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:droguelios@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-alejandro-rodriguez-guerrero-31224b314) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Droguelios)
 
 </div>
 
 ---
 
----
-
----
-
 <div align="center">
 
-⚡ I love video games, series and anime
+🎮 Video Games | 🍿 Series | 🍜 Anime
 
 </div>
 
