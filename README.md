@@ -70,8 +70,7 @@ Continuously learning and implementing advanced solutions, from real-time system
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="<img width="480" height="270" alt="giphy (1)" src="https://github.com/user-attachments/assets/3aa87f21-daeb-4a92-ab18-99dd627833d0" />
-" width="140px" alt="Gaming Zone">
+      <img src="https://github.com/user-attachments/assets/3aa87f21-daeb-4a92-ab18-99dd627833d0" width="220px" alt="Gaming Zone">
     </td>
   </tr>
 </table>
