@@ -57,7 +57,29 @@ Continuously learning and implementing advanced solutions, from real-time system
 
 <div align="center">
 
-🎮 Video Games | 🍿 Series | 🍜 Anime
+---
+
+### 🎮 Detrás del Código
+
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <p>Cuando no estoy optimizando código o estructurando bases de datos, me vas a encontrar superando desafíos en mis videojuegos favoritos, siguiendo series o disfrutando de un buen anime.</p>
+      <br />
+      <p><b>Top Desafíos Ganados:</b></p>
+      <ul>
+        <li> Sekiro: Shadows Die Twice</li>
+        <li> Bloodborne</li>
+        <li> Acción & Estrategia</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0amg0Z3B4am1pY3R4b293bXN5Y2FvbmNidm95b3N6bndpczZ0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpDmx7gVvjS96mI0R3/giphy.gif" width="180px" alt="Sekiro Pixel Art">
+    </td>
+  </tr>
+</table>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
 
 </div>
 
