@@ -12,20 +12,20 @@ Continuously learning and implementing advanced solutions, from real-time system
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
-#### **Backend & Core**
+#### **Backend and Core**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SPRINGBOOT](https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### **Databases**
-![postgresql](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Mongodb](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+#### **Databases and Tools**
+![postgresql](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Mongodb](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-#### **Frontend & Tools**
+#### **Frontend and Technologies**
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -37,15 +37,15 @@ Continuously learning and implementing advanced solutions, from real-time system
 
 ---
 
-### 🌱 Currently
+### Currently
 
-- 📚 **Learning:** Java 21, Spring Boot 3, JPA / Hibernate, Microservices
-- 🤝 **Open to collaborate on:** Backend Development, Spring Boot APIs, Open Source Projects
-- 💬 **Ask me about:** Java, Spring Boot, SQL/NoSQL Databases, REST APIs
+- **Learning:** Java 21, Spring Boot 3, JPA / Hibernate, Microservices
+- **Open to collaborate on:** Backend Development, Spring Boot APIs, Open Source Projects
+- **Ask me about:** Java, Spring Boot, SQL/NoSQL Databases, REST APIs
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <div align="center">
 
@@ -55,18 +55,18 @@ Continuously learning and implementing advanced solutions, from real-time system
 
 ---
 
-###  Detrás del Código
+### Behind the Code
 
 <table border="0" width="100%">
   <tr>
     <td width="65%" valign="top">
-      <p>Cuando no estoy optimizando código o estructurando bases de datos, me vas a encontrar superando desafíos en mi lista de videojuegos favoritos, siguiendo series o disfrutando de un buen anime.</p>
+      <p>When I'm not optimizing code or structuring databases, you'll find me beating challenges in my favorite video games, watching series, or enjoying a good anime.</p>
       <br />
-      <p><b>Top Desafíos Ganados:</b></p>
+      <p><b>Top Challenges Beaten:</b></p>
       <ul>
-        <li> Sekiro: Shadows Die Twice</li>
-        <li> Bloodborne & Souls Saga</li>
-        <li> Devil may cry</li>
+        <li>Sekiro: Shadows Die Twice</li>
+        <li>Bloodborne and Souls Saga</li>
+        <li>Real-Time Action and Strategy</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
