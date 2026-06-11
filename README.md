@@ -4,7 +4,7 @@
 
 ### Java Backend Developer | Medellín, ANT
 
-Passionate backend engineer dedicated to building scalable, efficient, and clean server-side applications. Experienced in developing robust architectures using Java and Spring Boot, integrating both relational (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, and implementing secure API communication.
+Passionate backend engineer dedicated to building robust, efficient, and clean server-side applications. Experienced in developing architectures using Java and Spring Boot, integrating both relational (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, and implementing secure API communication.
 
 Continuously learning and implementing advanced solutions, from real-time systems with WebSockets to AI integration. Focused on clean code, software design patterns, and agile methodologies.
 
@@ -55,32 +55,27 @@ Continuously learning and implementing advanced solutions, from real-time system
 
 ---
 
-<div align="center">
-
----
-
 ### 🎮 Detrás del Código
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <p>Cuando no estoy optimizando código o estructurando bases de datos, me vas a encontrar superando desafíos en mis videojuegos favoritos, siguiendo series o disfrutando de un buen anime.</p>
+    <td width="65%" valign="top">
+      <p>Cuando no estoy optimizando código o estructurando bases de datos, me vas a encontrar superando desafíos en mi lista de videojuegos favoritos, siguiendo series o disfrutando de un buen anime.</p>
       <br />
       <p><b>Top Desafíos Ganados:</b></p>
       <ul>
-        <li> Sekiro: Shadows Die Twice</li>
-        <li> Bloodborne</li>
-        <li> Acción & Estrategia</li>
+        <li>⚔️ Sekiro: Shadows Die Twice</li>
+        <li>🛡️ Bloodborne & Souls Saga</li>
+        <li>🔥 Acción & Estrategia en tiempo real</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0amg0Z3B4am1pY3R4b293bXN5Y2FvbmNidm95b3N6bndpczZ0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpDmx7gVvjS96mI0R3/giphy.gif" width="180px" alt="Sekiro Pixel Art">
+    <td width="35%" align="center" valign="middle">
+      <img src="<img width="480" height="270" alt="giphy (1)" src="https://github.com/user-attachments/assets/3aa87f21-daeb-4a92-ab18-99dd627833d0" />
+" width="140px" alt="Gaming Zone">
     </td>
   </tr>
 </table>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
-
-</div>
+<br />
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
