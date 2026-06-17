@@ -18,10 +18,10 @@ Continuously learning and implementing advanced solutions, from real-time system
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SPRINGBOOT](https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### **Databases and Tools**
-![postgresql](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Mongodb](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Mongodb](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### **Frontend and Technologies**
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+#### **Frontend and Ecosystem**
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ---
 
@@ -39,8 +39,8 @@ Continuously learning and implementing advanced solutions, from real-time system
 
 ### Currently
 
-- **Learning:** Java 21, Spring Boot 3, JPA / Hibernate, Microservices
-- **Open to collaborate on:** Backend Development, Spring Boot APIs, Open Source Projects
+- **Learning:** Java 21, Spring Boot 3, TypeScript, React, Next.js
+- **Open to collaborate on:** Backend Development, Spring Boot APIs, Full-Stack Prototypes
 - **Ask me about:** Java, Spring Boot, SQL/NoSQL Databases, REST APIs
 
 ---
