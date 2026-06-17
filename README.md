@@ -2,11 +2,11 @@
 
 <div align="center">
 
-### Java Backend Developer | Medellín, ANT
+### Full-Stack Developer | Medellín, ANT
 
-Passionate backend engineer dedicated to building robust, efficient, and clean server-side applications. Experienced in developing architectures using Java and Spring Boot, integrating both relational (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, and implementing secure API communication.
+Versatile software engineer focused on building robust, high-performance server-side architectures while crafting modern, dynamic frontend ecosystems. Experienced in designing robust backend systems with Java and Spring Boot, integrating relational and NoSQL databases, and managing containerized applications.
 
-Continuously learning and implementing advanced solutions, from real-time systems with WebSockets to AI integration. Focused on clean code, software design patterns, and agile methodologies.
+Expanding capabilities by integrating powerful frontend solutions using TypeScript, React, and Next.js. Driven by clean code, clean architecture, software design patterns, and agile methodologies to deliver seamless, end-to-end applications.
 
 </div>
 
@@ -40,7 +40,7 @@ Continuously learning and implementing advanced solutions, from real-time system
 ### Currently
 
 - **Learning:** Java 21, Spring Boot 3, TypeScript, React, Next.js
-- **Open to collaborate on:** Backend Development, Spring Boot APIs, Full-Stack Prototypes
+- **Open to collaborate on:** Full-Stack Development, Spring Boot APIs, Modern Web Applications
 - **Ask me about:** Java, Spring Boot, SQL/NoSQL Databases, REST APIs
 
 ---
