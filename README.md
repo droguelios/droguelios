@@ -4,9 +4,9 @@
 
 ### Full-Stack Developer | Medellín, ANT
 
-Versatile software engineer focused on building robust, high-performance server-side architectures while crafting modern, dynamic frontend ecosystems. Experienced in designing robust backend systems with Java and Spring Boot, integrating relational and NoSQL databases, and managing containerized applications.
+Versatile software engineer (English B1) focused on building robust, high-performance server-side architectures while crafting modern, dynamic frontend ecosystems. Experienced in designing scalable backend systems with Java and Spring Boot, managing relational and NoSQL databases, and streamlining development with containerized workflows.
 
-Expanding capabilities by integrating powerful frontend solutions using TypeScript, React, and Next.js. Driven by clean code, clean architecture, software design patterns, and agile methodologies to deliver seamless, end-to-end applications.
+Actively scaling capabilities by building modern web environments with TypeScript, React, and Next.js. Driven by clean code, software design patterns, and agile methodologies to deliver seamless, end-to-end software solutions.
 
 </div>
 
@@ -14,24 +14,23 @@ Expanding capabilities by integrating powerful frontend solutions using TypeScri
 
 ### Tech Stack
 
-#### **Backend and Core**
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SPRINGBOOT](https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div align="center">
 
-#### **Databases and Tools**
-![postgresql](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Mongodb](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,postgres,mongodb,docker,postman,py,js,html,css)](https://github.com/Droguelios)
 
-#### **Frontend and Ecosystem**
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+</div>
 
 ---
 
-### GitHub Stats
+### GitHub Analytics
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=droguelios&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=droguelios&layout=compact&theme=tokyonight)
+
+[![Manuel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Droguelios&theme=tokyonight&hide_border=true)](https://github.com/Droguelios)
 
 </div>
 
